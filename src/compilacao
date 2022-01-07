@@ -1,0 +1,4 @@
+dependências:
+    sudo apt-get install libglade2-0
+    sudo apt-get install gtk+3.0
+gcc main.c calcula.h -o calculadora.out `pkg-config --cflags --libs gtk+-3.0`
