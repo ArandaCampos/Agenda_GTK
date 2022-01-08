@@ -23,5 +23,5 @@
 
 ## Ferramentas Utilizadas
 
-- C
-- Glade
+- `C`
+- `Glade`
